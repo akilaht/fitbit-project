@@ -1,0 +1,15 @@
+{
+  "name": "fitbit-project",
+  "version": "1.0.0",
+  "description": "Alexa skill to read heart rate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akilah Toomer",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "request": "^2.81.0"
+  }
+}
